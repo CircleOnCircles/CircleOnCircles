@@ -5,12 +5,12 @@
 ```
 Dear and Dare tech companies of capitalism,
 
-Given you have all of my personal data since I born from all sources.
-Could you help me alternate my behavior to complete my todo list?
+Given you have all of my personal data since I born from all sources you named it.
+Could you help me alternate my behavior and asist me to complete my todo list?
 I don't want to stay longer on your platform or watch more ads that
 not contribute to my goal. I just want to keep it concise and something unrepetative.
 Also, want some ads for reminding me to call my friends and family from time to time.
-I will pay 10x for the ads revenue you loss.
+I will pay you with 20% of my income.
 Could you give me or I have to build this myself?
 ```
 
