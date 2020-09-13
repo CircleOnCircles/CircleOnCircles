@@ -6,7 +6,7 @@
 Dear and Dare tech companies of capitalism,
 
 Given you have all of my personal data since I born from all sources you named it.
-Could you help me alternate my behavior and asist me to complete my todo list?
+Could your platform alternate my behavior and asist me to complete my todo list?
 I don't want to stay longer on your platform or watch more ads that
 not contribute to my goal. I just want to keep it concise and something unrepetative.
 Also, want some ads for reminding me to call my friends and family from time to time.
