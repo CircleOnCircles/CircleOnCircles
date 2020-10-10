@@ -1,4 +1,4 @@
-# CircleOnCircles, an Utopia Architecture.
+# CircleOnCircles, a Utopia Architecture.
 
 #Pythonista #Anime #Goenka #Contrarian
 
