@@ -2,17 +2,7 @@
 
 #Pythonista #Anime #Goenka #Contrarian
 
-```
-Dear and Dare tech companies of capitalism,
-
-Given you have all of my personal data since I born from all sources you named it.
-Could your platform alternate my behavior and asist me to complete my todo list?
-I don't want to stay longer on your platform or watch more ads that
-not contribute to my goal. I just want to keep it concise and something unrepetative.
-Also, want some ads for reminding me to call my friends and family from time to time.
-I will pay you with 20% of my income.
-Could you give me or I have to build this myself?
-```
+> "I am willing to give all my data to a transparent algorithm. In return, could you help me finish my todolist?"
 
 ## Free to Fork/PR My TODO list
 
