@@ -1,10 +1,6 @@
 # CircleOnCircles, a Utopia Architecture.
 
-#Pythonista #Anime #Goenka #Contrarian #OSINT #Codustry
-
-wannabe: #rust
-
-> "I am willing to give all my data to a transparent algorithm. In return, could you help me finish my todolist?"
+"I am willing to give all my data to a transparent algorithm. In return, could you help me finish my todolist?"
 
 ## Free to Fork/PR My TODO list
 
