@@ -1,11 +1,11 @@
 # CircleOnCircles, a Utopia Architect.
 
-> "I am willing to give all my data to a transparent algorithm. In return, could you help me finish my todolist?"
+> "I am willing to give all my data to a transparent algorithm. In return, could the algorithm help me finish my todolist?"
 
 I am building an utopia from my own company, Codustry. We are digital-nomad developer-owned tech company based in Thailand and Singapore.
 Don't trust my words, please take a look at my karma. I created enough footprint in this digital world.
 
-##  My Ongoing Project
+##  Highlight Projects
 
 - [Aeolia](https://www.notion.so/codustry/Aeolia-The-fairest-and-advanced-spec-for-handling-personal-data-WIP-af53def85fc34c3f98c842769a562246) - The fairest and advanced design for handling personal data
 - [Deathrattle](https://github.com/CircleOnCircles/deathrattle) - Digital actions that execute after you are dead.
