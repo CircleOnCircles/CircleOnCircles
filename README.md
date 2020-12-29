@@ -2,7 +2,7 @@
 
 > "I am willing to give all my data to a transparent algorithm. In return, could the algorithm help me finish my todolist?"
 
-I am building an utopia from my own company, Codustry. We are digital-nomad developer-owned tech company based in Thailand and Singapore.
+I am building an utopia from my own company, Codustry. We are digital-nomad worker-owned tech company based in Thailand and Singapore.
 Don't trust my words, please take a look at my karma. I created enough footprint in this digital world.
 
 ##  Highlight Projects
