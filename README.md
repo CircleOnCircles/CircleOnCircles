@@ -1,4 +1,4 @@
-# CircleOnCircles, a Utopia Architect.
+# CircleOnCircles, a Utopia Architect and Maintainer.
 
 > "I am willing to give all my data to a transparent algorithm. In return, could the algorithm help me finish my todolist?"
 
